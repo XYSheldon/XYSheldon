@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - My Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=XYSheldon&show_icons=true&theme=onedark). 
+![Stats](https://github-readme-stats.vercel.app/api?username=XYSheldon&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true). 
 
 - My repository languages:  
 
